@@ -1,0 +1,26 @@
+{
+  "name": "express1",
+  "version": "1.0.0",
+  "description": "first express app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stiffelbo/express1.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "stiffelbo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stiffelbo/express1/issues"
+  },
+  "homepage": "https://github.com/stiffelbo/express1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
